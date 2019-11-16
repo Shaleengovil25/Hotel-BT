@@ -80,7 +80,6 @@ p{
 }
 #navbar a{
     color: #fff;
-    transition:all 0.5s;
 
 }
 #navbar h1{
@@ -100,6 +99,7 @@ padding-top: 20px;
     display: block;
     padding: 20px;
     text-align: center;
+    transition:all 0.5s;
 
 }
 #navbar ul li a:hover{
