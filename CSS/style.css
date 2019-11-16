@@ -80,6 +80,7 @@ p{
 }
 #navbar a{
     color: #fff;
+    transition:all 0.5s;
 
 }
 #navbar h1{
